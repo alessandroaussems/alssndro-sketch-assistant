@@ -1,17 +1,17 @@
 {
-  "name": "sketch-assistant-template",
-  "homepage": "https://github.com/sketch-hq/sketch-assistant-template",
-  "version": "1.0.0",
+  "name": "alssndro-sketch-assistant",
+  "homepage": "https://github.com/alessandroaussems/alssndro-sketch-assistant",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "sketch": "dist/sketch.js",
   "license": "MIT",
   "sketch-assistant": {
-    "title": "Sketch Assistant Template",
-    "description": "Template repository for a starter Assistant project",
-    "icon": ""
+    "title": "Alssndro Sketch Assistant",
+    "description": "Sketch Assistants from Alessandro Aussems",
+    "icon": "https://www.alessandroaussems.be/assets/alessandro.jpg"
   },
   "author": {
-    "name": "Your Name or Company Name"
+    "name": "Alessandro Aussems"
   },
   "keywords": [
     "sketch",
