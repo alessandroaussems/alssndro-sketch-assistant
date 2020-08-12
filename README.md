@@ -1,6 +1,6 @@
 # alssndro-sketch-assistant
 
-My awesome sketch assistant
+Sketch Assistants from Alessandro Aussems
 
 ## Getting started
 
